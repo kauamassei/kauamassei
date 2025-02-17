@@ -3,10 +3,8 @@
 #💻Kauã Massei
 **`Desenvolvedor Fullstack`**
 
-Técnico em Desenvolvimento de Sistemas pela ETEC Albert Einstein.
-
-<br/>
-<br/>
+<Hello World! /> 
+Desenvolvedor Fullstack, me chamo Kauã Massei, tenho 18 anos e sou apaixonado por tecnologia, atualmente investindo meu tempo em projetos pessoais. Estou nessa área a pouco mais de três anos, formado como Técnico em Desenvolvimento de Sistemas.
 
 ### 📊 Estatísticas
 
@@ -27,3 +25,9 @@ Técnico em Desenvolvimento de Sistemas pela ETEC Albert Einstein.
   />
 
 </p>
+
+<div align="center"> 
+    <a href="https://www.instagram.com/kauamassei/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/kauamassei/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
