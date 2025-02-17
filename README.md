@@ -1,4 +1,4 @@
-[![Header](https://github.com/kauamassei/kauamassei/issues/1#issue-2856613040)](https://github.com/kauamassei)
+![Image](https://github.com/user-attachments/assets/f1ce830a-af2b-4d28-be40-71dd03ab7a68)
 
 #💻Kauã Massei
 
