@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/f1ce830a-af2b-4d28-be40-71dd03ab7a68)
+![Image](https://github.com/kauamassei/kauamassei/blob/main/headergithubkauamassei.png)
 
 #💻Kauã Massei
 **`Desenvolvedor Fullstack`**
