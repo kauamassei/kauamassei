@@ -32,5 +32,5 @@ Desenvolvedor Frontend, me chamo Kauã Massei, tenho 18 anos e sou apaixonado po
     <a href="https://www.linkedin.com/in/kauamassei/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kauamassei/kauamassei/output/snake.svg" alt="Snake animation" />
 
