@@ -5,7 +5,7 @@
 
 <Hello World! /> 
 <br>
-Desenvolvedor Frontend, me chamo Kauã Massei, tenho 18 anos e sou apaixonado por tecnologia, atualmente investindo meu tempo em projetos pessoais e buscando oportunidades na área. Estou nela a pouco mais de três anos, desenvolvendo projetos escaláveis e intuitivos para o usuário, formado como Técnico em Desenvolvimento de Sistemas.
+Desenvolvedor Fullstack, me chamo Kauã Massei, tenho 18 anos e sou apaixonado por tecnologia, atualmente investindo meu tempo em projetos pessoais e buscando oportunidades na área. Estou nela a pouco mais de três anos, desenvolvendo projetos escaláveis e intuitivos para o usuário, formado como Técnico em Desenvolvimento de Sistemas.
 
 ### 📊 Estatísticas
 
