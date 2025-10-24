@@ -5,7 +5,7 @@
 
 <Hello World! /> 
 <br>
-Desenvolvedor Fullstack, me chamo Kauã Massei, tenho 18 anos e sou apaixonado por tecnologia, atualmente investindo meu tempo em projetos pessoais e freelancer. Estou na área a pouco mais de três anos, desenvolvendo aplicações escaláveis e intuitivas para o usuário, formado como Técnico em Desenvolvimento de Sistemas pela ETEC Albert Einstein, cursando superior em ADS e atuando como auxiliar de Engenharia Clínica.
+Desenvolvedor Fullstack, me chamo Kauã Massei, tenho 19 anos e sou apaixonado por tecnologia, atualmente investindo meu tempo em projetos pessoais e freelancer. Estou na área a pouco mais de três anos, desenvolvendo aplicações escaláveis e intuitivas para o usuário, formado como Técnico em Desenvolvimento de Sistemas pela ETEC Albert Einstein, cursando superior em ADS e atuando como auxiliar de Engenharia Clínica.
 
 ### 📊 Estatísticas
 
